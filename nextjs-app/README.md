@@ -18,8 +18,10 @@
 ## 스택
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 - ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-- ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 - ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+
+## Package Managers
+- ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 
 ## ORM
 - ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=Prisma&logoColor=white)
