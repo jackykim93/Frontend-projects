@@ -12,11 +12,13 @@
 
 ## 스택
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-- ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 
 ## CSS
 - ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
+
+## Package Managers
+- ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 
 ## 설치
 
