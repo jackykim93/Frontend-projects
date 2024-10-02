@@ -30,9 +30,11 @@
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 - ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 - ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)
-- ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 - ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
+
+## Package Managers
+- ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 
 ## Auth / Cloud System
 - ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
