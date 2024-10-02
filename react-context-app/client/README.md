@@ -16,10 +16,12 @@
 ## 스택
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 - ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-- ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 - ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
 - ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
+
+## Package Managers
+- ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 
 ## Backend Framework
 - ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
