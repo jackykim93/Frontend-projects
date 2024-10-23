@@ -1,0 +1,23 @@
+html {
+    font-family: system-ui, sans-serif;
+    font-size: 1.0rem;
+    padding-top: 70px;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  svg {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  path {
+    fill: white;
+  }
+  
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+  }
